@@ -1,6 +1,6 @@
-# Windows Custom Folder Icon Pack
+# Windows Custom Icon Pack
 
-**Various icons folder for Windows in ICO format**
+**Tons of icons for Windows in ICO format**
 
 Windows 7 + Windows 10 + Windows 11
 
@@ -15,6 +15,6 @@ Windows 7 + Windows 10 + Windows 11
 - https://www.deviantart.com/davidvkimball/art/Windows-11-Folder-Icons-885700560
 
 **CONTRIBUTORS**
-
+- https://github.com/FadeMind
 - https://github.com/xmha97
 - https://github.com/devpelux
